@@ -14,3 +14,6 @@ The 'nomad_job_definitions' directory contains the different job definitions dis
 [Creating a Nomad Windows Service](https://developer.hashicorp.com/nomad/docs/install/windows-service)
 
 [itzg/minecraft-server Docker Image Documentation](https://docker-minecraft-server.readthedocs.io/en/latest/)
+
+## YouTube Video
+[Run Minecraft on HashiCorp Nomad](https://www.youtube.com/watch?v=pXU7zZqFavE)
